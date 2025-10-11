@@ -13,3 +13,23 @@ Projects can include CLI tools, reverse proxies, schedulers, monitoring systems,
 - Mention optional bonus features or enhancements you implemented.
 
 ---
+
+### 🚀 Hermyx — Blazing-Fast Reverse Proxy
+- **Author:** [spyder01](https://github.com/spyder01)
+- **Idea:** [Minimal Reverse Proxy](../categories/systems.md#minimal-reverse-proxy)
+- **Repo / Demo:** [https://github.com/spyder01/hermyx](https://github.com/spyder01/hermyx)
+- **Description:** Hermyx is a blazing-fast, minimal reverse proxy built in Go using `fasthttp`. It supports:
+  - Route-specific caching rules
+  - Graceful shutdown
+  - Flexible YAML configuration
+  - Intelligent logging  
+  Hermyx is designed for microservices, edge routing, and lightweight API gateways, emphasizing simplicity and performance.  
+- **Tech:** Go, Fasthttp, YAML
+- **Features Implemented:**  
+  - Configurable caching with expiration rules  
+  - Graceful shutdown handling with PID tracking  
+  - Route-based logging and metrics  
+- **Bonus / Future Challenges:**  
+  - Distributed caching support  
+  - Rate-limiting per route  
+  - Web UI for monitoring cache hits/misses
