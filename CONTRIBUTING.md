@@ -103,7 +103,6 @@ git push origin add-submission-<project-name>
 
 ## ✅ Tips for Hacktoberfest
 
-* Look for issues labeled `good first issue` or `hacktoberfest`.
 * Use descriptive commit messages and PR titles.
 * Beginner-friendly contributions are encouraged — small steps count!
 * You can contribute **both ideas and implementations**.
