@@ -5,7 +5,7 @@ A curated collection of **project ideas** for developers of all levels — from 
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=flat-square&logo=github)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)
-![Submissions](https://img.shields.io/badge/submissions-1-lightgrey?style=flat-square)
+![Submissions](https://img.shields.io/badge/submissions-2-lightgrey?style=flat-square)
 
 ---
 
