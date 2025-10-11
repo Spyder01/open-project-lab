@@ -11,6 +11,12 @@ Use the [Project Idea Template](../templates/idea-template.md) to submit your ow
    **Tech:** HTML, CSS, JavaScript, backend optional (Go, Node.js, Django, Flask, or your choice)  
    **Bonus:** Add animations, dark mode, or deploy using GitHub Pages.
 
+  1. ### API Fetch Utility
+  **Description:** A small library to simplify API calls with fetch, including retries, caching, and error handling.  
+  **Difficulty:** Beginner/Intermediate  
+  **Tech:** JavaScript/TypeScript, Node.js, or browser  
+  **Bonus:** Add automatic JSON parsing, timeout handling, and interceptors.
+
 1. ### Blogging Platform
    **Description:** Create a platform where users can register, write, edit, and delete blog posts.  
    **Difficulty:** Intermediate  
@@ -64,3 +70,11 @@ Use the [Project Idea Template](../templates/idea-template.md) to submit your ow
    **Difficulty:** Intermediate  
    **Tech:** Go, Node.js + Express, or Django/Flask backend, MongoDB/PostgreSQL  
    **Bonus:** Add search by ingredients, tags, and user favorites.
+
+1. ### Tiny State Management Tool
+  **Description:** Create a minimal, easy-to-use state management library for frontend apps.  
+  **Difficulty:** Intermediate  
+  **Tech:** JavaScript/TypeScript, works with React, Vue, or vanilla JS  
+  **Bonus:** Add devtools integration, time-travel debugging, or middleware support.
+
+
