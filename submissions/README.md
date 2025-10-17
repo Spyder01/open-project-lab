@@ -25,9 +25,9 @@ Every project here was made by a contributor who turned an idea into working cod
 
    ```markdown
    ### 🚀 Project Name
-   - **Author:** [Your Name](https://github.com/yourusername)
+   - **Author:** [Your Name](https://github.com/spyder01)
    - **Idea:** [Idea Title](../categories/<category>.md#idea-anchor)
-   - **Repo / Demo:** [GitHub Repo](https://github.com/yourusername/project-name)
+   - **Repo / Demo:** [GitHub Repo](https://github.com/spyder01/project-name)
    - **Description:** A short summary of your project, the technologies used, and unique features.
    ```
 
@@ -42,7 +42,7 @@ Every project here was made by a contributor who turned an idea into working cod
 Add this badge to your project’s README to show your participation:
 
 ```markdown
-[![Open Project Lab Submission](https://img.shields.io/badge/Open%20Project%20Lab-Submission-blue?logo=github)](https://github.com/yourusername/open-project-lab)
+[![Open Project Lab Submission](https://img.shields.io/badge/Open%20Project%20Lab-Submission-blue?logo=github)](https://github.com/spyder01/open-project-lab)
 ```
 
 ---
