@@ -27,7 +27,7 @@ Every project here was made by a contributor who turned an idea into working cod
    ### 🚀 Project Name
    - **Author:** [Your Name](https://github.com/spyder01)
    - **Idea:** [Idea Title](../categories/<category>.md#idea-anchor)
-   - **Repo / Demo:** [GitHub Repo](https://github.com/spyder01/project-name)
+   - **Repo / Demo:** [GitHub Repo](https://github.com/spyder01/project-lab)
    - **Description:** A short summary of your project, the technologies used, and unique features.
    ```
 
