@@ -42,7 +42,7 @@ Every project here was made by a contributor who turned an idea into working cod
 Add this badge to your project’s README to show your participation:
 
 ```markdown
-[![Open Project Lab Submission](https://img.shields.io/badge/Open%20Project%20Lab-Submission-blue?logo=github)](https://github.com/spyder01/open-project-lab)
+[![Open Project Lab Submission](https://img.shields.io/badge/Open%20Project%20Lab-Submission-blue?logo=github)](https://github.com/yourusername/open-project-lab)
 ```
 
 ---
