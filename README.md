@@ -30,12 +30,13 @@ Only **substantial contributions** will be marked as `hacktoberfest-accepted`.
 - [Systems & Tools](categories/systems.md)
 - [Games](categories/game-dev.md)
 - [Miscellaneous](categories/misc.md)
+- [Networks and Protocols](categories/networks-and-protocols.md) 
 
 ---
 
 ## 🧠 Example Idea
 
-**Name:** Minimal Reverse Proxy 
+**Name:** Minimal Reverse Proxy  
 **Description:** Build a blazing-fast reverse proxy with route caching, YAML config, and graceful shutdown.  
 **Difficulty:** Intermediate  
 **Tech:** Go/Rust or any decently fast language with networking capabilities.
