@@ -39,7 +39,6 @@ From beginner ML models to advanced AI systems, all contributions are valuable!
 
 ### 🔗 Repository / Demo
 > [GitHub Repo](https://github.com/Rajaykumar12/Comment_analysis)  
-> [Live Demo](https://example.com)
 
 ---
 
