@@ -14,10 +14,10 @@ From beginner ML models to advanced AI systems, all contributions are valuable!
  
 ---
 
-## 🧩 YouTube Analysis API
+## 🧩 Sentiment Analysis API
 
 ### 🚀 Project Name
-> YouTube Analysis API
+> Sentiment Analysis API
 
 ---
 
