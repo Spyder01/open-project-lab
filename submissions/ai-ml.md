@@ -66,3 +66,55 @@ From beginner ML models to advanced AI systems, all contributions are valuable!
 > - **Interactive API Documentation**: Automatic Swagger UI for testing endpoints
 
 ---
+
+## 🧩 Handwritten Digit Recognizer
+
+### 🚀 Project Name
+> Handwritten Digit Recognizer
+
+---
+
+### 👤 Author
+> [R Ajay Kumar](https://github.com/Rajaykumar12)
+
+---
+
+### 💡 Based On Idea
+> _Handwritten Digit Recognizer_
+> [Link to idea in categories](../categories/ai-ml.md#handwritten-digit-recognizer)
+
+---
+
+### 🧰 Tech Stack
+> Python, TensorFlow, Keras, FastAPI, NumPy, Scikit-learn, Matplotlib, Pillow, Uvicorn, Jupyter Notebook
+
+---
+
+### 🔗 Repository / Demo
+> [GitHub Repo](https://github.com/Rajaykumar12/Convolutional_network)
+
+---
+
+### 📝 Description
+> A project that trains a Convolutional Neural Network (CNN) on the MNIST dataset using a Jupyter Notebook. The trained model (`.h5` file) is then served by a simple and efficient FastAPI API, which allows users to upload an image of a handwritten digit and receive a real-time prediction.
+
+---
+
+### 🚀 Features
+- **CNN Training Notebook**: A detailed `CNN.ipynb` notebook for data loading, preprocessing, augmentation, and model training.
+- **Robust CNN Architecture**: Uses Conv2D, MaxPooling2D, BatchNormalization, and Dropout layers for effective classification.
+- **Data Augmentation**: Employs `ImageDataGenerator` for random rotations, zooms, and shifts to prevent overfitting.
+- **Training Callbacks**: Uses `EarlyStopping` to monitor validation loss and save the best model.
+- **FastAPI Prediction Service**: An `app.py` that loads the trained Keras model and serves predictions.
+- **API Endpoint**: A `POST /predict/` endpoint that accepts an image file upload and returns the predicted digit as JSON.
+- **Interactive Docs**: Automatically generated API documentation available at the `/docs` endpoint.
+
+---
+
+### 💡 Bonus / Extras (Optional)
+> - **Data Augmentation**: Improves model generalization by creating modified training images in real-time.
+> - **Optimized Training**: Uses `EarlyStopping` to save the best-performing model and prevent overfitting.
+> - **API Deployment**: Deploys the trained model as a RESTful service using FastAPI, making it accessible for real-world applications.
+> - **Interactive API Docs**: Provides a user-friendly Swagger UI for easy testing and interaction with the prediction endpoint.
+
+---
