@@ -67,7 +67,7 @@ From beginner ML models to advanced AI systems, all contributions are valuable!
 
 ---
 
-### 🧩 Handwritten Digit Recognizer
+## 🧩 Handwritten Digit Recognizer
 
 ### 🚀 Project Name
 > Handwritten Digit Recognizer
