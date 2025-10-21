@@ -80,7 +80,7 @@ From beginner ML models to advanced AI systems, all contributions are valuable!
 ---
 
 ### 💡 Based On Idea
-> _Title of the idea you implemented_
+> _Handwritten Digit Recognizer_
 > [Link to idea in categories](../categories/ai-ml.md#handwritten-digit-recognizer)
 
 ---
